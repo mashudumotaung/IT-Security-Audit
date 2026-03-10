@@ -1,5 +1,5 @@
 # IT-Security-Audit
-# IT Security Audit Checklist 🔐
+# IT Security Audit Checklist 
 
 This project demonstrates a basic system security audit.
 
